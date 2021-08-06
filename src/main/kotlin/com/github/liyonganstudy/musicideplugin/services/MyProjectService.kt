@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.liyonganstudy.musicideplugin.services
 
+import com.github.liyonganstudy.musicideplugin.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
